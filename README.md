@@ -1,5 +1,5 @@
 # AkuPeta
-Program for AI and OOP course final assigment
+Final Project for AI and OOP course final assigment
 
 Description: 
   This program using java 11. the program will help you
